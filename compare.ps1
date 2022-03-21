@@ -1,5 +1,4 @@
 
-Write-Output $env:PATH
 
 # creates the employees csv 
 (Get-Content -Path /Users/brandonpatterson/Desktop/Jumpcloud/employees.json | ConvertFrom-Json)  | ConvertTo-Csv -NoTypeInformation | % { $_ -replace '"', "" } | Set-Content -Path /Users/brandonpatterson/Desktop/Jumpcloud/employees.csv
@@ -9,10 +8,11 @@ Write-Output $env:PATH
 $engineers = Import-Csv -Path /Users/brandonpatterson/Desktop/Jumpcloud/engineering.csv  | Select-Object -Property firstName , lastName, manager, email  
 
 
-# import employees 
+# import employees while filtering out  employeee who do have totp_enabled 
 $employees = Import-Csv -Path /Users/brandonpatterson/Desktop/Jumpcloud/employees.csv | Where-Object { $_.totp_enabled -eq 'false' } 
 $list = @()
 
+#run loop through both csv to find matches and create csv with matches 
 foreach ($f in $engineers) {
     $matched = $false
     foreach ($e in $employees) {
