@@ -1,0 +1,101 @@
+firstName,lastName,email,totp_enabled,username,jobTitle
+Frederick,Alexander,falexander@fakeemailtest.com,True,frederick.alexander,SDET
+Melissa,Allen,mallen@fakeemailtest.com,False,melissa.allen,Software Engineer
+Tara,Allen,tallen@fakeemailtest.com,False,tara.allen,Engineering Manager
+Edith,Anderson,eanderson@fakeemailtest.com,True,edith.anderson,Accountant
+Amber,Andrews,aandrews@fakeemailtest.com,True,amber.andrews,Customer Support Technician
+Chelsea,Armstrong,carmstrong@fakeemailtest.com,True,chelsea.armstrong,CTO
+Adele,Armstrong,aarmstrong@fakeemailtest.com,True,adele.armstrong,Software Engineer
+Alissa,Bailey,abailey@fakeemailtest.com,False,alissa.bailey,Customer Support Technician
+Nicole,Bailey,nbailey@fakeemailtest.com,False,nicole.bailey,Sales Manager
+Brad,Baker,bbaker@fakeemailtest.com,False,brad.baker,Operations Manager
+Thomas,Barrett,tbarrett@fakeemailtest.com,True,thomas.barrett,Software Engineer
+Dexter,Brooks,dbrooks@fakeemailtest.com,False,dexter.brooks,Sales Representative
+Jasmine,Carroll,jcarroll@fakeemailtest.com,True,jasmine.carroll,Marketing Manager
+Aiden,Carter,acarter@fakeemailtest.com,False,aiden.carter,SDET
+Sabrina,Carter,scarter@fakeemailtest.com,False,sabrina.carter,Engineering Director
+Robert,Carter,rcarter@fakeemailtest.com,False,robert.carter,Sales Representative
+Connie,Casey,ccasey@fakeemailtest.com,False,connie.casey,Customer Support Technician
+Julian,Chapman,jchapman@fakeemailtest.com,True,julian.chapman,Engineering Manager
+Mary,Chapman,mchapman@fakeemailtest.com,True,mary.chapman,Administrative Assistant
+Roland,Chapman,rchapman@fakeemailtest.com,True,roland.chapman,Customer Support Technician
+Charlotte,Chapman,cchapman@fakeemailtest.com,True,charlotte.chapman,Sales Representative
+Chelsea,Chapman,cchapman@fakeemailtest.com,True,chelsea.chapman,Customer Support Technician
+Ada,Clark,aclark@fakeemailtest.com,False,ada.clark,SRE
+Albert,Cole,acole@fakeemailtest.com,False,albert.cole,Account Manager
+Adele,Craig,acraig@fakeemailtest.com,False,adele.craig,Administrative Assistant
+Lilianna,Cunningham,lcunningham@fakeemailtest.com,True,lilianna.cunningham,QA Engineer
+Derek,Douglas,ddouglas@fakeemailtest.com,True,derek.douglas,Software Engineer
+Alina,Elliott,aelliott@fakeemailtest.com,True,alina.elliott,Software Engineer
+Miller,Ellis,mellis@fakeemailtest.com,False,miller.ellis,Accountant
+Emily,Evans,eevans@fakeemailtest.com,False,emily.evans,Accountant
+Isabella,Ferguson,iferguson@fakeemailtest.com,True,isabella.ferguson,SRE
+Max,Foster,mfoster@fakeemailtest.com,False,max.foster,Account Manager
+Carlos,Grant,cgrant@fakeemailtest.com,False,carlos.grant,HR Generalist
+Albert,Gray,agray@fakeemailtest.com,False,albert.gray,Engineering Director
+Albert,Hamilton,ahamilton@fakeemailtest.com,True,albert.hamilton,CFO
+Vanessa,Harper,vharper@fakeemailtest.com,False,vanessa.harper,QA Engineer
+Melanie,Harrison,mharrison@fakeemailtest.com,True,melanie.harrison,VP of Human Resources
+Camila,Harrison,charrison@fakeemailtest.com,True,camila.harrison,Sales Representative
+Miley,Hawkins,mhawkins@fakeemailtest.com,True,miley.hawkins,Software Engineer
+Jack,Hawkins,jhawkins@fakeemailtest.com,True,jack.hawkins,Account Manager
+Stella,Hawkins,shawkins@fakeemailtest.com,True,stella.hawkins,Customer Support Technician
+Thomas,Holmes,tholmes@fakeemailtest.com,False,thomas.holmes,QA Engineer
+Sophia,Holmes,sholmes@fakeemailtest.com,False,sophia.holmes,SRE
+Lucas,Howard,lhoward@fakeemailtest.com,False,lucas.howard,Software Engineer
+Agata,Howard,ahoward@fakeemailtest.com,False,agata.howard,Accountant
+Charlotte,Howard,choward@fakeemailtest.com,False,charlotte.howard,Benefits Coordinator
+Rubie,Howard,rhoward@fakeemailtest.com,False,rubie.howard,Marketing Manager
+Ted,Johnson,tjohnson@fakeemailtest.com,True,ted.johnson,Sales Manager
+Savana,Johnson,sjohnson@fakeemailtest.com,True,savana.johnson,Operations Specialist
+Adison,Kelley,akelley@fakeemailtest.com,False,adison.kelley,Marketing Manager
+Charlie,Kelly,ckelly@fakeemailtest.com,False,charlie.kelly,Customer Support Technician
+Frederick,Lloyd,flloyd@fakeemailtest.com,False,frederick.lloyd,SDET
+Arianna,Lloyd,alloyd@fakeemailtest.com,False,arianna.lloyd,Account Manager
+Ned,Martin,nmartin@fakeemailtest.com,False,ned.martin,SRE
+Miller,Martin,mmartin@fakeemailtest.com,False,miller.martin,Administrative Assistant
+Miranda,Mason,mmason@fakeemailtest.com,False,miranda.mason,IT Technician
+Reid,Miller,rmiller@fakeemailtest.com,False,reid.miller,Marketing Manager
+James,Miller,jmiller@fakeemailtest.com,False,james.miller,Account Manager
+Adam,Mitchell,amitchell@fakeemailtest.com,True,adam.mitchell,Customer Support Technician
+Julia,Mitchell,jmitchell@fakeemailtest.com,True,julia.mitchell,HR Generalist
+Lydia,Mitchell,lmitchell@fakeemailtest.com,True,lydia.mitchell,Account Manager
+Naomi,Mitchell,nmitchell@fakeemailtest.com,True,naomi.mitchell,Marketing Manager
+Spike,Montgomery,smontgomery@fakeemailtest.com,True,spike.montgomery,CMO
+Sawyer,Morgan,smorgan@fakeemailtest.com,False,sawyer.morgan,SDET
+Vincent,Morris,vmorris@fakeemailtest.com,False,vincent.morris,SDET
+Edith,Morris,emorris@fakeemailtest.com,False,edith.morris,Account Manager
+Daniel,Murphy,dmurphy@fakeemailtest.com,False,daniel.murphy,SRE
+Alen,Murray,amurray@fakeemailtest.com,False,alen.murray,Facilities Technicial
+Briony,Murray,bmurray@fakeemailtest.com,False,briony.murray,Marketing Manager
+Andrew,Nelson,anelson@fakeemailtest.com,False,andrew.nelson,Sales Representative
+Maya,Parker,mparker@fakeemailtest.com,False,maya.parker,CEO
+Leonardo,Phillips,lphillips@fakeemailtest.com,True,leonardo.phillips,Administrative Assistant
+Maria,Reed,mreed@fakeemailtest.com,False,maria.reed,SDET
+Maddie,Richardson,mrichardson@fakeemailtest.com,True,maddie.richardson,QA Engineer
+James,Richardson,jrichardson@fakeemailtest.com,True,james.richardson,HR Manager
+Sawyer,Richardson,srichardson@fakeemailtest.com,True,sawyer.richardson,Operations Specialist
+Agata,Robinson,arobinson@fakeemailtest.com,True,agata.robinson,Sales Representative
+Vincent,Ryan,vryan@fakeemailtest.com,False,vincent.ryan,Software Engineer
+Alberta,Ryan,aryan@fakeemailtest.com,False,alberta.ryan,Administrative Assistant
+Chelsea,Ryan,cryan@fakeemailtest.com,False,chelsea.ryan,Accountant
+Sofia,Ryan,sryan@fakeemailtest.com,False,sofia.ryan,Sales Representative
+Lilianna,Ryan,lryan@fakeemailtest.com,False,lilianna.ryan,Customer Support Technician
+Grace,Scott,gscott@fakeemailtest.com,False,grace.scott,QA Engineer
+Haris,Spencer,hspencer@fakeemailtest.com,True,haris.spencer,Software Engineer
+Gianna,Sullivan,gsullivan@fakeemailtest.com,True,gianna.sullivan,Software Engineer
+Carlos,Taylor,ctaylor@fakeemailtest.com,False,carlos.taylor,Marketing Manager
+Derek,Taylor,dtaylor@fakeemailtest.com,False,derek.taylor,Sales Representative
+Isabella,Thomas,ithomas@fakeemailtest.com,False,isabella.thomas,SRE
+Lana,Thomas,lthomas@fakeemailtest.com,False,lana.thomas,Account Manager
+Rebecca,Tucker,rtucker@fakeemailtest.com,False,rebecca.tucker,QA Engineer
+Dale,Turner,dturner@fakeemailtest.com,False,dale.turner,QA Engineer
+Reid,Turner,rturner@fakeemailtest.com,False,reid.turner,Sales Representative
+Jenna,Walker,jwalker@fakeemailtest.com,False,jenna.walker,Customer Support Technician
+Alford,Warren,awarren@fakeemailtest.com,False,alford.warren,Marketing Manager
+Tony,Watson,twatson@fakeemailtest.com,False,tony.watson,Software Engineer
+Agata,Watson,awatson@fakeemailtest.com,False,agata.watson,Customer Support Technician
+Paige,West,pwest@fakeemailtest.com,False,paige.west,SDET
+Sam,West,swest@fakeemailtest.com,False,sam.west,SRE
+Aldus,West,awest@fakeemailtest.com,False,aldus.west,Sales Representative
+Chelsea,Wright,cwright@fakeemailtest.com,False,chelsea.wright,Accountant
