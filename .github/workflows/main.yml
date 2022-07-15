@@ -1,0 +1,9 @@
+on: 
+  workflow_call:
+  
+jobs:
+   testing: 
+      runs-on: ubuntu-latest
+      steps: 
+       - run: echo "it works" 
+  
